@@ -3,4 +3,4 @@ basic tetris game website made in js,html and css.
 
 the website is being hosted on netlify.
 
-visit: 
+visit: https://tetrisclonejs.netlify.app/
